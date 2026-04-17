@@ -1,0 +1,26 @@
+# Ignore logs
+Logs/
+*.log
+
+# Ignore ISO output
+Output/
+*.iso
+
+# Ignore Windows ISO source
+BaseISO/
+*.iso
+
+# Ignore temporary files
+*.tmp
+*.bak
+
+# Ignore PowerShell history
+*.pshistory
+
+# Ignore compiled modules (if any)
+*.psd1
+*.psm1
+
+# Ignore user-specific files
+*.user
+*.cache
